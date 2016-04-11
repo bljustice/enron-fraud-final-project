@@ -1,0 +1,12 @@
+Below is the list of external resources used for this project.
+
+Python sklearn Documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html
+http://scikit-learn.org/stable/modules/feature_extraction.html
+http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+Udacity Discussions
+https://discussions.udacity.com/t/cross-validation-the-difference-between-stratified-shufflesplit-and-kfold/35278
