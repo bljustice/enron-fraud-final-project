@@ -48,7 +48,7 @@
   | Recall | .28 |
   | F1 | .37 |
 
-  Since this test did not perform to requirements and the features appeared to have no effect on the evaluation metrics I was using, I decided to create additional features to use in my model with everything else staying constant to see how they affected performance. Below are the additional features I created and used.
+  Since the features appeared to have little to no effect on the evaluation metrics I was using, I decided to create additional features to use in my model with everything else staying constant to see how they affected performance. Below are the additional features I created and used.
 
   **New Email Based Feature**
 
